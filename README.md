@@ -54,6 +54,6 @@ food-slider/
    ```
 2. Navigate into the project folder:
    ```bash
-   cd food-slider
+   cd slider-food
    ```
 3. Open index.html in your browser.
